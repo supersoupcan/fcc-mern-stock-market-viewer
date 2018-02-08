@@ -39,7 +39,7 @@
   "scripts": {
     "bundle": "webpack --watch --colors --progress",
     "start": "node ./bin/www.js",
-    "start-dev": "nodemon ./bin/www.js",
+    "start-dev": "nodemon ./bin/www.js"
   },
   "author": "Jacob Sloots",
   "license": "ISC"
