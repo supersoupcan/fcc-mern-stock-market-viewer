@@ -1,3 +1,3 @@
 var app = require('../server');
 
-app.listen(process.env.PORT || 5000);
+app.listen(process.env.PORT);
